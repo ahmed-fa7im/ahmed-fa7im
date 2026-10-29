@@ -1,23 +1,121 @@
-# 💫 About Me:
-hi, I am a penetration tester and ctf player for some time 
-and I prefer the redteam. 
-I do some simple projects in Python and C#. <Elliot>
+<div align="center">
 
+# Ahmed Fahim
+### Cybersecurity Engineer | Penetration Tester
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedfa7im) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/a7medfa7im) 
+**Web Security · API Security · Android Security · Network Pentesting**
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ahmed-fa7im&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahmed-fa7im&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-fa7im&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I explore vulnerabilities, build security labs, solve hands-on challenges,
+and document practical security research.
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+[GitHub](https://github.com/ahmed-fa7im) •
+[LinkedIn](https://www.linkedin.com/in/ahmedfa7im/) •
+[Security Blog](https://ahmed-fa7im.github.io/)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ahmed-fa7im&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I'm a Cybersecurity Engineer focused on penetration testing,
+vulnerability analysis, and offensive security.
+
+My work and learning cover:
+
+- **Web Application Security:** Vulnerability discovery and testing.
+- **API Security:** Authentication, authorization, and API testing.
+- **Android Security:** Application analysis and mobile security testing.
+- **Network Security:** Network enumeration and security assessment.
+- **Wireless Security:** Building isolated wireless security labs.
+- **Security Research:** Exploring vulnerabilities and documenting findings.
+
+I enjoy hands-on security challenges, developing practical tools,
+and writing technical articles that explain vulnerabilities,
+testing methodologies, and troubleshooting techniques.
+
+## 🛠️ Security Domains & Tools
+
+| Domain | Tools & Technologies |
+|---|---|
+| Web Pentesting | Burp Suite, HTTP, OWASP Top 10 |
+| API Pentesting | Postman, HTTP, API testing |
+| Android Security | JADX, Apktool, ADB |
+| Network Pentesting | Nmap, Wireshark, Metasploit |
+| Wireless Security | Kali Linux, hostapd, mitmproxy |
+| Scripting | Python, Bash, JavaScript |
+
+## 🚀 Featured Projects
+
+### 📡 MANA Wireless Lab
+
+A modular wireless security lab for creating an isolated
+WPA2 access point with DHCP, NAT/forwarding, and optional
+HTTP/HTTPS interception using mitmproxy.
+
+**Focus:** Wireless Security · Network Security · Lab Automation
+
+[Explore Repository](https://github.com/ahmed-fa7im/mana-wireless-lab)
+
+### 🔬 Penetration Testing Knowledge Base
+
+My technical blog documents practical security research,
+penetration testing exercises, lab walkthroughs, and
+troubleshooting guides.
+
+**Focus:** Technical Writing · Security Research · Knowledge Sharing
+
+[Visit My Blog](https://ahmed-fa7im.github.io/)
+
+### 🌐 Web Pentesting
+
+A dedicated space for web application security practice,
+vulnerability research, and penetration testing write-ups.
+
+[Explore Repository](https://github.com/ahmed-fa7im/web-pentest)
+
+### 🔌 API Pentesting
+
+Notes, exercises, and practical work related to API security
+and penetration testing.
+
+[Explore Repository](https://github.com/ahmed-fa7im/api-pentest)
+
+### 📱 Android Pentesting
+
+Practical Android security exercises, application analysis,
+and mobile application testing.
+
+[Explore Repository](https://github.com/ahmed-fa7im/android-pentest)
+
+### 🖧 Network Pentesting
+
+Network security practice, enumeration, and penetration
+testing research.
+
+[Explore Repository](https://github.com/ahmed-fa7im/network-pentesting)
+
+## 📚 Technical Writing
+
+I document practical security topics with an emphasis on:
+
+- Understanding the root cause of vulnerabilities.
+- Explaining attack techniques and their security impact.
+- Documenting commands and testing workflows.
+- Providing remediation guidance where applicable.
+
+[Read My Articles](https://ahmed-fa7im.github.io/)
+
+## 📫 Connect With Me
+
+- **GitHub:** [ahmed-fa7im](https://github.com/ahmed-fa7im)
+- **LinkedIn:** [Ahmed Fahim](https://www.linkedin.com/in/ahmedfa7im/)
+- **Blog:** [ahmed-fa7im.github.io](https://ahmed-fa7im.github.io/)
+
+---
+
+<div align="center">
+
+*Learning by testing. Improving through research. Sharing knowledge.*
+
+</div>
