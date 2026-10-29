@@ -1,121 +1,148 @@
 <div align="center">
 
-# Ahmed Fahim
-### Cybersecurity Engineer | Penetration Tester
+<p><code>ahmed-fa7im@github ~ $ whoami</code></p>
 
-**Web Security · API Security · Android Security · Network Pentesting**
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=ahmed-fa7im&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F64432235%3Fv%3D4&style=terminal&v=oss-system-scan-1&mode=light" />
+    <img src="https://www.gitskins.com/api/section/system-scan?username=ahmed-fa7im&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F64432235%3Fv%3D4&style=terminal&v=oss-system-scan-1&mode=dark" width="860" alt="Ahmed Fahim animated maintainer system scan" />
+  </picture>
+</p>
 
-I explore vulnerabilities, build security labs, solve hands-on challenges,
-and document practical security research.
+<h2>👋 whoami</h2>
 
-[GitHub](https://github.com/ahmed-fa7im) •
-[LinkedIn](https://www.linkedin.com/in/ahmedfa7im/) •
-[Security Blog](https://ahmed-fa7im.github.io/)
+<p>
+  <strong>Ahmed Fahim</strong> (<code>0xAhM</code>) — Cyber Security Engineer<br />
+  📧 <a href="mailto:ahmedfahimmosallam@gmail.com">ahmedfahimmosallam@gmail.com</a> ·
+  🎓 B.Sc. Computer & Information Sciences, Kafr El-Sheikh University, Egypt (2021–2025)
+</p>
 
-</div>
+<p>
+  Motivated Cyber Security Engineer with hands-on experience in <strong>API</strong>, <strong>Android</strong>,
+  <strong>web</strong>, and <strong>network penetration testing</strong>. Skilled in ethical hacking,
+  vulnerability analysis, and documenting technical findings. Experienced in solving labs,
+  CTF challenges, and practical security scenarios.
+</p>
 
----
-
-## 👨‍💻 About Me
-
-I'm a Cybersecurity Engineer focused on penetration testing,
-vulnerability analysis, and offensive security.
-
-My work and learning cover:
-
-- **Web Application Security:** Vulnerability discovery and testing.
-- **API Security:** Authentication, authorization, and API testing.
-- **Android Security:** Application analysis and mobile security testing.
-- **Network Security:** Network enumeration and security assessment.
-- **Wireless Security:** Building isolated wireless security labs.
-- **Security Research:** Exploring vulnerabilities and documenting findings.
-
-I enjoy hands-on security challenges, developing practical tools,
-and writing technical articles that explain vulnerabilities,
-testing methodologies, and troubleshooting techniques.
-
-## 🛠️ Security Domains & Tools
-
-| Domain | Tools & Technologies |
-|---|---|
-| Web Pentesting | Burp Suite, HTTP, OWASP Top 10 |
-| API Pentesting | Postman, HTTP, API testing |
-| Android Security | JADX, Apktool, ADB |
-| Network Pentesting | Nmap, Wireshark, Metasploit |
-| Wireless Security | Kali Linux, hostapd, mitmproxy |
-| Scripting | Python, Bash, JavaScript |
-
-## 🚀 Featured Projects
-
-### 📡 MANA Wireless Lab
-
-A modular wireless security lab for creating an isolated
-WPA2 access point with DHCP, NAT/forwarding, and optional
-HTTP/HTTPS interception using mitmproxy.
-
-**Focus:** Wireless Security · Network Security · Lab Automation
-
-[Explore Repository](https://github.com/ahmed-fa7im/mana-wireless-lab)
-
-### 🔬 Penetration Testing Knowledge Base
-
-My technical blog documents practical security research,
-penetration testing exercises, lab walkthroughs, and
-troubleshooting guides.
-
-**Focus:** Technical Writing · Security Research · Knowledge Sharing
-
-[Visit My Blog](https://ahmed-fa7im.github.io/)
-
-### 🌐 Web Pentesting
-
-A dedicated space for web application security practice,
-vulnerability research, and penetration testing write-ups.
-
-[Explore Repository](https://github.com/ahmed-fa7im/web-pentest)
-
-### 🔌 API Pentesting
-
-Notes, exercises, and practical work related to API security
-and penetration testing.
-
-[Explore Repository](https://github.com/ahmed-fa7im/api-pentest)
-
-### 📱 Android Pentesting
-
-Practical Android security exercises, application analysis,
-and mobile application testing.
-
-[Explore Repository](https://github.com/ahmed-fa7im/android-pentest)
-
-### 🖧 Network Pentesting
-
-Network security practice, enumeration, and penetration
-testing research.
-
-[Explore Repository](https://github.com/ahmed-fa7im/network-pentesting)
-
-## 📚 Technical Writing
-
-I document practical security topics with an emphasis on:
-
-- Understanding the root cause of vulnerabilities.
-- Explaining attack techniques and their security impact.
-- Documenting commands and testing workflows.
-- Providing remediation guidance where applicable.
-
-[Read My Articles](https://ahmed-fa7im.github.io/)
-
-## 📫 Connect With Me
-
-- **GitHub:** [ahmed-fa7im](https://github.com/ahmed-fa7im)
-- **LinkedIn:** [Ahmed Fahim](https://www.linkedin.com/in/ahmedfa7im/)
-- **Blog:** [ahmed-fa7im.github.io](https://ahmed-fa7im.github.io/)
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🎯 Focus</h3>
+      <p><code>Web Pentesting</code> · <code>API Security</code> · <code>Android Security</code> · <code>Network Pentesting</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📊 Proof</h3>
+      <p>9 public repositories · 12 stars</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🤝 Contribution</h3>
+      <p>17 contributions · 8 active days</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<div align="center">
+## 🚀 Repositories Worth Exploring
 
-*Learning by testing. Improving through research. Sharing knowledge.*
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=ahmed-fa7im&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F64432235%3Fv%3D4&repos=ahmed-fa7im%2FSimple-Python-Project-For-CyberSecurity%2Cahmed-fa7im%2FCVE-2023-38831-winrar-expoit-simple-Poc&v=oss-projects-1&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=ahmed-fa7im&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F64432235%3Fv%3D4&repos=ahmed-fa7im%2FSimple-Python-Project-For-CyberSecurity%2Cahmed-fa7im%2FCVE-2023-38831-winrar-expoit-simple-Poc&v=oss-projects-1&mode=dark" width="860" alt="Ahmed Fahim maintainer repositories" />
+  </picture>
+</p>
 
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ahmed-fa7im/CVE-2023-38831-winrar-expoit-simple-Poc">CVE-2023-38831 WinRAR Exploit PoC</a></h3>
+      <p>CVE-2023-38831 WinRAR exploit generator and reverse shell</p>
+      <p><sub>Python · ⭐ 11</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ahmed-fa7im/Simple-Python-Project-For-CyberSecurity">Simple Python Project For CyberSecurity</a></h3>
+      <p>Beginner-friendly Python project for cybersecurity concepts</p>
+      <p><sub>Python · Cybersecurity</sub></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=ahmed-fa7im&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F64432235%3Fv%3D4&style=terminal&v=oss-stats-1&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=ahmed-fa7im&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F64432235%3Fv%3D4&style=terminal&v=oss-stats-1&mode=dark" width="100%" alt="Ahmed Fahim open-source signal" />
+  </picture>
+</p>
+
+---
+
+## 🔥 Contribution Trail
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=ahmed-fa7im&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F64432235%3Fv%3D4&v=oss-heatmap-1&mode=light" />
+    <img src="https://www.gitskins.com/api/section/heatmap?username=ahmed-fa7im&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F64432235%3Fv%3D4&v=oss-heatmap-1&mode=dark" width="100%" alt="Ahmed Fahim contribution trail" />
+  </picture>
+</p>
+
+---
+
+## 📝 Latest from the Blog
+
+<p align="center">
+  <a href="https://ahmed-fa7im.github.io/">ahmed-fa7im.github.io</a>
+</p>
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h4>📶 WiFiChallenge Lab v2.0 — Part 1</h4>
+      <p>A Guided Walkthrough from Setup to WPA3 (Challenges 00–14)</p>
+      <p><sub>Oct 26, 2026 · Wireless Security · Penetration Testing</sub></p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>📡 TP-Link TL-WN722N Monitor Mode</h4>
+      <p>Fixing RTL8188EUS Monitor Mode on Kali Linux</p>
+      <p><sub>Sep 17, 2026 · Wireless Security · Linux</sub></p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🔌 c{api}tal LAB Writeup</h4>
+      <p>API Penetration Testing Writeup — mass assignment, CORS, weak auth</p>
+      <p><sub>Feb 1, 2026 · API Security · Penetration Testing</sub></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🤝 Contribute Together
+
+If the work is useful, open an issue, improve the docs, share a project, or start a conversation.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=ahmed-fa7im&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F64432235%3Fv%3D4&v=oss-social-1&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=ahmed-fa7im&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F64432235%3Fv%3D4&v=oss-social-1&mode=dark" width="100%" alt="Ahmed Fahim community links" />
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ahmed-fa7im">GitHub</a> &nbsp;·&nbsp;
+  <a href="https://root-x.dev/publisher/ahmed_fahim/">Website</a> &nbsp;·&nbsp;
+  <a href="https://x.com/a7medfa7im">X</a> &nbsp;·&nbsp;
+  <a href="https://ahmed-fa7im.github.io/">Blog</a>
+</p>
+
+<p align="center"><sub>Ahmed Fahim (0xAhM) · open-source profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/ahmed-fa7im">
+    <img src="https://komarev.com/ghpvc/?username=ahmed-fa7im&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+  </a>
+</p>
